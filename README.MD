@@ -10,7 +10,8 @@ Always learning new technologies and methodologies, and I constantly seek to enh
 * ✉️  You can contact me at [eneiasbrumjr@gmail.com](mailto:eneiasbrumjr@gmail.com)
 * 🧠  I'm learning Patterns of architecting
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I have a big dog called BOLT
+* ⚡  I have a big dog called BOLT  
+* ⚡  I have already run three marathons and many minor runs
 
 ### Skills
 
