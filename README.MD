@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Architect
 ---------------
 
-Always learning new technologies and methodologies, and I constantly seek to enhance my skills and knowledge in the filed of cloud computing. I'm also extremely friendly and comfortable working on projects involving multiple teams from different domains. My goal is to leverage my experience and credentials to join a dynamic and innovative organization that values teamwork, excellence, and customer satisfaction.
+Always learning new technologies and methodologies, I constantly seek to enhance my skills and knowledge in the cloud computing field. I'm also extremely friendly and comfortable working on projects involving multiple teams from different domains. I aim to leverage my experience and credentials to join a dynamic, innovative organization that values teamwork, excellence, and customer satisfaction.
 
 * 🌍  I'm based in São Paulo-Brazil
 * ✉️  You can contact me at [eneiasbrumjr@gmail.com](mailto:eneiasbrumjr@gmail.com)
