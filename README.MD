@@ -1,15 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enéias Brum
-===================================================================================================================================
+# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Enéias Brum
 
-Cloud Architect
----------------
+### 🚀 Senior Cloud Engineer & Solutions Architect
+**Bridging the gap between robust Infrastructure and innovative IoT Systems.**
 
-Always learning new technologies and methodologies, I constantly seek to enhance my skills and knowledge in the cloud computing field. I'm also extremely friendly and comfortable working on projects involving multiple teams from different domains. I aim to leverage my experience and credentials to join a dynamic, innovative organization that values teamwork, excellence, and customer satisfaction.
+Currently, I'm a **Senior Cloud Engineer at Globant** and an **Associate Google Instructor**, helping organizations navigate the complexities of AWS and GCP. I'm also pursuing a **Master’s in Urban Infrastructure Systems**, focusing on developing energy-self-sufficient IoT sensors for environmental monitoring.
 
-* 🌍  I'm based in São Paulo-Brazil
-* ✉️  You can contact me at [eneiasbrumjr@gmail.com](mailto:eneiasbrumjr@gmail.com)
-* 🧠  I'm learning Patterns of architecting
-* 🤝  I'm open to collaborating on Interesting projects
+---
+
+### 🛠️ What I'm working on
+- ☁️ **Cloud Excellence:** Building scalable, automated EKS pipelines with Terraform (Check out my latest repo!).
+- 🌍 **IoT Research:** Designing low-cost, self-powered sensor circuits for smarter cities.
+- 🎓 **Education:** Sharing knowledge as a certified instructor for Google Cloud.
+- 🇮🇹 **Personal Goal:** Learning Italian for my upcoming travels.
 
 ### Skills
 
