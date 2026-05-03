@@ -1,8 +1,8 @@
 # Hi, I'm Enéias Brum 👋
 
-### Senior Cloud Engineer · Solutions Architect · Google Cloud Instructor · Founder of [Infram8](https://infram8.com)
+### Computer Engineer · Senior Cloud Engineer · Solutions Architect · Google Cloud Instructor · Founder of [Infram8](https://infram8.com)
 
-I work at the intersection of **Cloud Architecture**, **DevOps**, **Infrastructure as Code (IaC)**, **Kubernetes**, **Cloud Security**, **FinOps (Cloud Financial Operations)**, **technical governance**, and **intelligent infrastructure systems**.
+I am a **Computer Engineer** working at the intersection of **Cloud Architecture**, **DevOps**, **Infrastructure as Code (IaC)**, **Kubernetes**, **Cloud Security**, **FinOps (Cloud Financial Operations)**, **technical governance**, and **intelligent infrastructure systems**.
 
 My focus is helping organizations build reliable, secure, automated, and cost-aware technical foundations across **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, **Microsoft Azure**, and modern cloud-native environments.
 
@@ -13,6 +13,7 @@ I am also pursuing a **Master’s degree in Urban Infrastructure Systems**, rese
 ## About Me
 
 - ☁️ **Multi-cloud architect** with strong experience in AWS, GCP, Azure, Kubernetes, automation, and infrastructure modernization.
+- 🧠 **Computer Engineer** with a practical and strategic approach to cloud, infrastructure, and systems design.
 - 🏗️ **Founder of [Infram8](https://infram8.com)**, a premium infrastructure company focused on cloud architecture, security, FinOps, automation, and technical governance.
 - 🎓 **Google Cloud Instructor**, helping professionals and teams build practical cloud capability.
 - 🔬 **Researcher in IoT and AI**, connecting cloud engineering with urban computing, environmental intelligence, and real-world infrastructure challenges.
@@ -146,7 +147,7 @@ mindmap
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eneiasbrumjr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eneiasbrumjr&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -154,7 +155,7 @@ mindmap
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneiasbrumjr&layout=compact&langs_count=8&hide_border=true&title_color=22c55e&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eneiasbrumjr&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -168,8 +169,6 @@ mindmap
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eneiasbrumjr&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
-
-> **Note:** Some dynamic GitHub widgets are powered by third-party services and may occasionally fail to load due to rate limits or temporary service instability. Keeping more than one stats source helps make the profile more resilient.
 
 ---
 
@@ -191,6 +190,9 @@ mindmap
   </a>
   <a href="https://www.linkedin.com/in/eneiasbrumjr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-En%C3%A9ias_Brum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/company/infram8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Infram8-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/eneiasbrumjr" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-eneiasbrumjr-181717?style=for-the-badge&logo=github&logoColor=white" />
