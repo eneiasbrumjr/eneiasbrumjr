@@ -1,65 +1,241 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"> I'm Enéias Brum
+# Hi, I'm Enéias Brum `<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28">`
 
-### 🚀 Senior Cloud Engineer & Solutions Architect
-**Bridging the gap between robust Infrastructure and innovative IoT Systems.**
+### Senior Cloud Engineer · Solutions Architect · Google Cloud Instructor · Founder of Infram8
 
-Currently, I'm a **Senior Cloud Engineer at Globant** and an **Associate Google Instructor**, helping organizations navigate the complexities of AWS and GCP. I'm also pursuing a **Master’s in Urban Infrastructure Systems**, focusing on developing energy-self-sufficient IoT sensors for environmental monitoring.
+I work at the intersection of **cloud architecture**, **DevOps**, **Infrastructure as Code (IaC)**, **FinOps (Cloud Financial Operations)**, **Kubernetes**, **technical governance**, and **intelligent infrastructure systems**.
+
+```
+
+```
+
+My professional focus is helping companies build reliable, secure, automated, and cost-aware technical foundations, especially across **AWS (Amazon Web Services)**, **Google Cloud Platform (GCP)**, and modern cloud-native environments.
+
+I am also pursuing a **Master’s degree in Urban Infrastructure Systems**, researching low-cost environmental sensing, Internet of Things (IoT), and Artificial Intelligence (AI) applied to smarter and healthier cities.
 
 ---
 
-### 🛠️ What I'm working on
-- ☁️ **Cloud Excellence:** Building scalable, automated EKS pipelines with Terraform (Check out my latest repo!).
-- 🌍 **IoT Research:** Designing low-cost, self-powered sensor circuits for smarter cities.
-- 🎓 **Education:** Sharing knowledge as a certified instructor for Google Cloud.
-- 🇮🇹 **Personal Goal:** Learning Italian for my upcoming travels.
+## Current Focus
 
-### Skills
+- Building and advising on **modern cloud architectures** for startups and growing companies.
+- Developing **Infram8**, a premium infrastructure company focused on cloud architecture, security, FinOps, automation, and technical governance.
+- Teaching and sharing knowledge as a **Google Cloud Instructor**.
+- Researching **IoT (Internet of Things), AI (Artificial Intelligence), environmental monitoring, and urban computing**.
+- Designing practical systems that connect cloud engineering, data, automation, and real-world infrastructure.
 
-### 🧠 Skills & Technologies
+---
 
-**Cloud & DevOps**
+## Authority Snapshot
+
+| Area                   | Focus                                                                                            |
+| ---------------------- | ------------------------------------------------------------------------------------------------ |
+| Cloud Architecture     | AWS (Amazon Web Services), Google Cloud Platform (GCP), Azure, multi-cloud foundations           |
+| DevOps & SRE           | Kubernetes, CI/CD (Continuous Integration and Continuous Delivery), observability, reliability   |
+| Infrastructure as Code | Terraform, Pulumi, automation patterns, reusable cloud foundations                               |
+| FinOps                 | Cost visibility, cloud financial governance, startup cloud efficiency                            |
+| Security               | Cloud security baseline, identity, access control, infrastructure hardening                      |
+| Education              | Google Cloud instruction, technical mentoring, professional knowledge sharing                    |
+| Research               | IoT (Internet of Things), AI (Artificial Intelligence), smart cities, environmental intelligence |
+
+---
+
+## What I Build
+
+```mermaid
+flowchart LR
+    A[Cloud Architecture] --> B[Secure Foundations]
+    A --> C[Infrastructure as Code]
+    C --> D[Automated Delivery]
+    D --> E[Reliable Operations]
+    E --> F[FinOps Visibility]
+    F --> G[Business Confidence]
+
+    H[IoT Research] --> I[Environmental Sensors]
+    I --> J[Urban Data]
+    J --> K[AI Models]
+    K --> L[Intelligent Infrastructure]
+```
+
+---
+
+## Infram8
+
+I am building **Infram8**, a founder-led modern infrastructure company focused on helping early-stage and growing companies create strong technical foundations without unnecessary complexity.
+
+**Infram8 Core**
+
+- Cloud architecture
+- DevOps
+- Infrastructure as Code (IaC)
+- FinOps (Cloud Financial Operations)
+- Security baseline
+- Reliability and observability
+- Technical governance
+
+**Infram8 Labs**
+
+- Artificial Intelligence (AI)
+- Internet of Things (IoT)
+- Urban computing
+- Environmental intelligence
+- Smart infrastructure research
+
+> Strong infrastructure is not just about tools. It is about clarity, reliability, security, cost awareness, and the ability to grow without losing control.
+
+---
+
+## Technologies & Tools
+
+### Cloud & Platform Engineering
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-**Languages & Frameworks**
+### Infrastructure as Code & Automation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+### Programming & Scripting
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
-**Databases & Backend**
+### Data, Backend & Research
+
 <p align="left">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI/ML-111827?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
+---
+
+## Certifications & Professional Direction
+
+I hold professional certifications across cloud, Kubernetes, and DevOps, including:
+
+- AWS Certified Solutions Architect Professional
+- AWS Certified DevOps Engineer Professional
+- Google Cloud Professional Cloud Architect
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- Kubernetes and Cloud Native Associate (KCNA)
+
+My current professional direction is focused on:
+
+- Multi-cloud architecture
+- Cloud security
+- FinOps (Cloud Financial Operations)
+- AI (Artificial Intelligence) infrastructure
+- Kubernetes platforms
+- Infrastructure automation
+- Technical leadership and education
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eneiasbrumjr&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eneiasbrumjr&theme=dark&hide_border=true&background=0D1117&ring=0891B2&fire=0891B2&currStreakLabel=0891B2" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneiasbrumjr&layout=compact&langs_count=10&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eneiasbrumjr&bg_color=0d1117&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+## Profile Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eneiasbrumjr&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
+</p>
+
+---
+
+## Featured Themes
+
+```mermaid
+mindmap
+  root((Enéias Brum))
+    Cloud Architecture
+      AWS
+      Google Cloud
+      Azure
+      Multi-cloud
+    DevOps
+      Kubernetes
+      CI/CD
+      Observability
+      Reliability
+    Infrastructure as Code
+      Terraform
+      Pulumi
+      Automation
+    FinOps
+      Cost visibility
+      Governance
+      Optimization
+    Research
+      IoT
+      AI
+      Urban Computing
+      Environmental Monitoring
+    Education
+      Google Cloud
+      Mentoring
+      Technical Content
+    Infram8
+      Core
+      Labs
+```
+
+---
+
+## Connect with Me
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a href="https://www.linkedin.com/in/eneiasbrumjr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Enéias_Brum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.github.com/eneiasbrumjr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-eneiasbrumjr-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.x.com/BrumEneiasJr" target="_blank">
+    <img src="https://img.shields.io/badge/X-BrumEneiasJr-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </p>
 
+---
 
-### Socials
+## Personal Note
 
-<p align="left"> <a href="https://www.github.com/eneiasbrumjr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/eneiasbrumjr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/eneias-brum" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/BrumEneiasJr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+I believe strong engineering is not only about building systems that work. It is about building systems that are clear, secure, reliable, explainable, and useful for the people and organizations that depend on them.
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/eneiasbrumjr"><img src="https://github-readme-stats.vercel.app/api?username=eneiasbrumjr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="eneiasbrumjr's GitHub stats" /></a>
-
-<a href="http://www.github.com/eneiasbrumjr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eneiasbrumjr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/eneiasbrumjr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneiasbrumjr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+That is the kind of infrastructure I like to design, teach, and improve.
