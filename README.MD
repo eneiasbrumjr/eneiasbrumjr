@@ -174,8 +174,6 @@ mindmap
 
 ## Highlighted Repositories
 
-> Replace the repository names below with the ones you most want to promote.
-
 - [`2025-52-projects`](https://github.com/eneiasbrumjr) - Cloud, Kubernetes, automation, and platform engineering projects.
 - [`Infram8`](https://infram8.com) - Founder-led infrastructure positioning, services, and technical direction.
 - [`IoT / Research Work`](https://github.com/eneiasbrumjr) - Applied work involving sensors, environmental intelligence, and AI.
